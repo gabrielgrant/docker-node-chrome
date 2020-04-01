@@ -1,3 +1,5 @@
 Docker image that adds Chrome to the basic Node.js image.
 
 Used for testing front-end JavaScript projects.
+
+Auto-published to https://hub.docker.com/repository/docker/gabrielgrant/node-chrome
